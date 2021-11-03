@@ -1,6 +1,6 @@
-package br.com.tinteltec.cliente.service;
+package br.com.gabrieldevsena.cliente.service;
 
-import br.com.tinteltec.cliente.dto.ClienteDTO;
+import br.com.gabrieldevsena.cliente.dto.ClienteDTO;
 
 import java.util.List;
 

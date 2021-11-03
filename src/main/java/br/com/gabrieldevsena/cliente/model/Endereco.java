@@ -1,4 +1,4 @@
-package br.com.tinteltec.cliente.model;
+package br.com.gabrieldevsena.cliente.model;
 
 import lombok.Getter;
 import lombok.Setter;

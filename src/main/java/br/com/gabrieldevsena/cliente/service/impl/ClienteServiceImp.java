@@ -1,9 +1,9 @@
-package br.com.tinteltec.cliente.service.impl;
+package br.com.gabrieldevsena.cliente.service.impl;
 
-import br.com.tinteltec.cliente.dto.ClienteDTO;
-import br.com.tinteltec.cliente.model.Cliente;
-import br.com.tinteltec.cliente.repository.ClienteRepository;
-import br.com.tinteltec.cliente.service.ClieneService;
+import br.com.gabrieldevsena.cliente.dto.ClienteDTO;
+import br.com.gabrieldevsena.cliente.model.Cliente;
+import br.com.gabrieldevsena.cliente.repository.ClienteRepository;
+import br.com.gabrieldevsena.cliente.service.ClieneService;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 

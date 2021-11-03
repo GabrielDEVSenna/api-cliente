@@ -1,4 +1,4 @@
-package br.com.tinteltec.cliente;
+package br.com.gabrieldevsena.cliente;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;

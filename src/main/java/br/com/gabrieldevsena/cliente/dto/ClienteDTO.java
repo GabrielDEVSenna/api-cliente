@@ -1,6 +1,5 @@
-package br.com.tinteltec.cliente.dto;
+package br.com.gabrieldevsena.cliente.dto;
 
-import br.com.tinteltec.cliente.model.Endereco;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

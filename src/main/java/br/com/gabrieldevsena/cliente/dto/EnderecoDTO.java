@@ -1,4 +1,4 @@
-package br.com.tinteltec.cliente.dto;
+package br.com.gabrieldevsena.cliente.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
